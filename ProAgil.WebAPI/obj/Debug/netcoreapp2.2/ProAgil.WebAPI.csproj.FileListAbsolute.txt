@@ -12,3 +12,7 @@ C:\projetos\_srcEstudo\DOTNETCORE\ProAgil.WebAPI\bin\Debug\netcoreapp2.2\ProAgil
 C:\projetos\_srcEstudo\DOTNETCORE\ProAgil.WebAPI\bin\Debug\netcoreapp2.2\ProAgil.WebAPI.dll
 C:\projetos\_srcEstudo\DOTNETCORE\ProAgil.WebAPI\bin\Debug\netcoreapp2.2\ProAgil.WebAPI.pdb
 C:\projetos\_srcEstudo\DOTNETCORE\ProAgil.WebAPI\obj\Debug\netcoreapp2.2\ProAgil.WebAPI.RazorTargetAssemblyInfo.cache
+C:\projetos\_srcEstudo\DOTNETCORE\ProAgil.WebAPI\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\projetos\_srcEstudo\DOTNETCORE\ProAgil.WebAPI\bin\Debug\netcoreapp2.2\appsettings.json
+C:\projetos\_srcEstudo\DOTNETCORE\ProAgil.WebAPI\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\projetos\_srcEstudo\DOTNETCORE\ProAgil.WebAPI\obj\Debug\netcoreapp2.2\ProAgil.WebAPI.genruntimeconfig.cache
