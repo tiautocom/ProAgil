@@ -10,3 +10,15 @@ C:\projetos\_srcEstudo\DOTNETCORE\ProAgil.Repository\bin\Debug\netstandard2.0\Pr
 C:\projetos\_srcEstudo\DOTNETCORE\ProAgil.Repository\obj\Debug\netstandard2.0\ProAgil.Repository.csproj.CopyComplete
 C:\projetos\_srcEstudo\DOTNETCORE\ProAgil.Repository\obj\Debug\netstandard2.0\ProAgil.Repository.dll
 C:\projetos\_srcEstudo\DOTNETCORE\ProAgil.Repository\obj\Debug\netstandard2.0\ProAgil.Repository.pdb
+C:\projetos\_srcEstudo\DOTNETCORE - Secao7-Ok\ProAgil.Repository\bin\Debug\netstandard2.0\ProAgil.Repository.deps.json
+C:\projetos\_srcEstudo\DOTNETCORE - Secao7-Ok\ProAgil.Repository\bin\Debug\netstandard2.0\ProAgil.Repository.dll
+C:\projetos\_srcEstudo\DOTNETCORE - Secao7-Ok\ProAgil.Repository\bin\Debug\netstandard2.0\ProAgil.Repository.pdb
+C:\projetos\_srcEstudo\DOTNETCORE - Secao7-Ok\ProAgil.Repository\bin\Debug\netstandard2.0\ProAgil.Domain.dll
+C:\projetos\_srcEstudo\DOTNETCORE - Secao7-Ok\ProAgil.Repository\bin\Debug\netstandard2.0\ProAgil.Domain.pdb
+C:\projetos\_srcEstudo\DOTNETCORE - Secao7-Ok\ProAgil.Repository\obj\Debug\netstandard2.0\ProAgil.Repository.csprojAssemblyReference.cache
+C:\projetos\_srcEstudo\DOTNETCORE - Secao7-Ok\ProAgil.Repository\obj\Debug\netstandard2.0\ProAgil.Repository.AssemblyInfoInputs.cache
+C:\projetos\_srcEstudo\DOTNETCORE - Secao7-Ok\ProAgil.Repository\obj\Debug\netstandard2.0\ProAgil.Repository.AssemblyInfo.cs
+C:\projetos\_srcEstudo\DOTNETCORE - Secao7-Ok\ProAgil.Repository\obj\Debug\netstandard2.0\ProAgil.Repository.csproj.CoreCompileInputs.cache
+C:\projetos\_srcEstudo\DOTNETCORE - Secao7-Ok\ProAgil.Repository\obj\Debug\netstandard2.0\ProAgil.Repository.csproj.CopyComplete
+C:\projetos\_srcEstudo\DOTNETCORE - Secao7-Ok\ProAgil.Repository\obj\Debug\netstandard2.0\ProAgil.Repository.dll
+C:\projetos\_srcEstudo\DOTNETCORE - Secao7-Ok\ProAgil.Repository\obj\Debug\netstandard2.0\ProAgil.Repository.pdb

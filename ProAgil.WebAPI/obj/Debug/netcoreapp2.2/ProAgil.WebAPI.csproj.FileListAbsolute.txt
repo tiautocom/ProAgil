@@ -39,3 +39,26 @@ C:\projetos\_srcEstudo\DOTNETCORE\ProAgil.WebAPI\bin\Debug\netcoreapp2.2\ProAgil
 C:\projetos\_srcEstudo\DOTNETCORE\ProAgil.WebAPI\bin\Debug\netcoreapp2.2\ProAgil.Domain.pdb
 C:\projetos\_srcEstudo\DOTNETCORE\ProAgil.WebAPI\bin\Debug\netcoreapp2.2\ProAgil.Repository.pdb
 C:\projetos\_srcEstudo\DOTNETCORE\ProAgil.WebAPI\obj\Debug\netcoreapp2.2\ProAgil.WebAPI.csproj.CopyComplete
+C:\projetos\_srcEstudo\DOTNETCORE - Secao7-Ok\ProAgil.WebAPI\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\projetos\_srcEstudo\DOTNETCORE - Secao7-Ok\ProAgil.WebAPI\bin\Debug\netcoreapp2.2\appsettings.json
+C:\projetos\_srcEstudo\DOTNETCORE - Secao7-Ok\ProAgil.WebAPI\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\projetos\_srcEstudo\DOTNETCORE - Secao7-Ok\ProAgil.WebAPI\bin\Debug\netcoreapp2.2\ProAgil.WebAPI.deps.json
+C:\projetos\_srcEstudo\DOTNETCORE - Secao7-Ok\ProAgil.WebAPI\bin\Debug\netcoreapp2.2\ProAgil.WebAPI.runtimeconfig.json
+C:\projetos\_srcEstudo\DOTNETCORE - Secao7-Ok\ProAgil.WebAPI\bin\Debug\netcoreapp2.2\ProAgil.WebAPI.runtimeconfig.dev.json
+C:\projetos\_srcEstudo\DOTNETCORE - Secao7-Ok\ProAgil.WebAPI\bin\Debug\netcoreapp2.2\ProAgil.WebAPI.dll
+C:\projetos\_srcEstudo\DOTNETCORE - Secao7-Ok\ProAgil.WebAPI\bin\Debug\netcoreapp2.2\ProAgil.WebAPI.pdb
+C:\projetos\_srcEstudo\DOTNETCORE - Secao7-Ok\ProAgil.WebAPI\bin\Debug\netcoreapp2.2\ProAgil.Domain.dll
+C:\projetos\_srcEstudo\DOTNETCORE - Secao7-Ok\ProAgil.WebAPI\bin\Debug\netcoreapp2.2\ProAgil.Repository.dll
+C:\projetos\_srcEstudo\DOTNETCORE - Secao7-Ok\ProAgil.WebAPI\bin\Debug\netcoreapp2.2\ProAgil.Domain.pdb
+C:\projetos\_srcEstudo\DOTNETCORE - Secao7-Ok\ProAgil.WebAPI\bin\Debug\netcoreapp2.2\ProAgil.Repository.pdb
+C:\projetos\_srcEstudo\DOTNETCORE - Secao7-Ok\ProAgil.WebAPI\obj\Debug\netcoreapp2.2\ProAgil.WebAPI.csprojAssemblyReference.cache
+C:\projetos\_srcEstudo\DOTNETCORE - Secao7-Ok\ProAgil.WebAPI\obj\Debug\netcoreapp2.2\ProAgil.WebAPI.AssemblyInfoInputs.cache
+C:\projetos\_srcEstudo\DOTNETCORE - Secao7-Ok\ProAgil.WebAPI\obj\Debug\netcoreapp2.2\ProAgil.WebAPI.AssemblyInfo.cs
+C:\projetos\_srcEstudo\DOTNETCORE - Secao7-Ok\ProAgil.WebAPI\obj\Debug\netcoreapp2.2\ProAgil.WebAPI.csproj.CoreCompileInputs.cache
+C:\projetos\_srcEstudo\DOTNETCORE - Secao7-Ok\ProAgil.WebAPI\obj\Debug\netcoreapp2.2\ProAgil.WebAPI.RazorAssemblyInfo.cache
+C:\projetos\_srcEstudo\DOTNETCORE - Secao7-Ok\ProAgil.WebAPI\obj\Debug\netcoreapp2.2\ProAgil.WebAPI.RazorAssemblyInfo.cs
+C:\projetos\_srcEstudo\DOTNETCORE - Secao7-Ok\ProAgil.WebAPI\obj\Debug\netcoreapp2.2\ProAgil.WebAPI.RazorTargetAssemblyInfo.cache
+C:\projetos\_srcEstudo\DOTNETCORE - Secao7-Ok\ProAgil.WebAPI\obj\Debug\netcoreapp2.2\ProAgil.WebAPI.csproj.CopyComplete
+C:\projetos\_srcEstudo\DOTNETCORE - Secao7-Ok\ProAgil.WebAPI\obj\Debug\netcoreapp2.2\ProAgil.WebAPI.dll
+C:\projetos\_srcEstudo\DOTNETCORE - Secao7-Ok\ProAgil.WebAPI\obj\Debug\netcoreapp2.2\ProAgil.WebAPI.pdb
+C:\projetos\_srcEstudo\DOTNETCORE - Secao7-Ok\ProAgil.WebAPI\obj\Debug\netcoreapp2.2\ProAgil.WebAPI.genruntimeconfig.cache
